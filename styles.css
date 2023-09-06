@@ -1,0 +1,98 @@
+.nav{
+    list-style-type: none;
+    padding-left: 0%;
+
+    width: 50vw;
+    margin: auto;
+
+    text-align: center;
+    
+}
+
+.all{
+    background-color: rgb(54, 41, 1);
+}
+
+.nav>li {
+    display: inline-block;
+    border: outset;
+    background-color: gold;
+}
+
+.nav>li>a {
+    text-decoration: none;
+}
+
+.fire{
+    background-image: url(images/Screenshot\ 2023-04-14\ at\ 1.13.56\ PM.png);
+    background-size: 100vw;
+}
+
+p{
+    color: blueviolet;
+    text-align: center;
+    background-color: gold;
+    margin-left: 30vw;
+    margin-right: 30vw;
+}
+
+h1{
+    color: white;
+}
+
+.hans{
+    margin-left: 80vw;
+}
+
+h1{
+    text-align: center;
+    color: rgb(248, 231, 177);
+    text-size-adjust: 40vw;
+}
+.huns{
+    margin-left: 12vw;
+    margin-right: 12vw;
+}
+
+dl>dt{
+    color: blueviolet;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+.water{
+    background-color: black;
+}
+
+dl>img{
+    display: inline-block;
+    align-content: center;
+    block-size: 20vw;
+    margin-left: 40vw;
+    margin-right: 40vw;
+}
+
+dl>dd{
+    color: white;
+    background-color: rgb(96, 26, 26);
+}
+
+.waffle>ul{
+    width: 100vw;
+    margin: auto;
+    text-align: center;
+}
+
+.new{
+    background-size: 100vw;
+    
+}
+
+h3{
+    color: rgb(248, 231, 177);
+    text-align: center;
+}
+
+img{
+    width: 50vw;
+}
